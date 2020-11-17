@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace twisted\autoclearlagg;
+namespace Teunboeke\autoclearlagg;
 
 use pocketmine\entity\Creature;
 use pocketmine\entity\Human;
