@@ -1,9 +1,9 @@
 name: AutoClearLagg
-description: Recoded & improved auto clear lagg plugin
+description: Recoded & improved auto clear lagg plugin 
 
-main: twisted\autoclearlagg\AutoClearLagg
+main: Teunboeke\autoclearlagg\AutoClearLagg
 version: 3.1.0
 api: 3.0.0
 
-author: Twisted
-website: https://github.com/TwistedAsylumMC/AutoClearLagg
+author: Teunboeke 
+website: https://github.com/Teunboeke/AutoClearLagg
